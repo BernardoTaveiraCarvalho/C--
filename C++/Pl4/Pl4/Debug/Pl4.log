@@ -1,0 +1,6 @@
+﻿  Pessoa.cpp
+  Pl4.cpp
+C:\Users\T0121075\source\repos\Pl4\Pl4\Pl4.cpp(14,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\T0121075\source\repos\Pl4\Pl4\Pl4.cpp(15,39): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  Pl4.vcxproj -> C:\Users\T0121075\source\repos\Pl4\Debug\Pl4.exe
